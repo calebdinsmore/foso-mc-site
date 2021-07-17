@@ -32,7 +32,7 @@ player-guide:
         url: /misc/player-guide/other-utilities
   - title: For Mods
     children:
-      - title: Command Reference
+      - title: Moderator Command Reference
         url: /misc/player-guide/command-reference
 
 past-worlds:
