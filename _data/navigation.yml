@@ -1,0 +1,50 @@
+header:
+  - title: Player Guide
+    key: player-guide
+    url: /misc/player-guide/player-guide
+
+  - title: Past Worlds
+    url: /misc/past-worlds/past-worlds
+    key: past-worlds
+
+  - title: Archive
+    url: /archive.html
+
+  - title: About
+    url: /about.html
+
+player-guide:
+  - title: Intro
+    children:
+      - title: Player Guide
+        url: /misc/player-guide/player-guide
+  - title: Economy
+    children:
+      - title: Server Currency
+        url: /misc/player-guide/server-currency
+      - title: Shops
+        url: /misc/player-guide/shops
+  - title: Misc
+    children:
+      - title: Moderator Resources
+        url: /misc/player-guide/moderator-resources
+      - title: Other Utilities
+        url: /misc/player-guide/other-utilities
+  - title: For Mods
+    children:
+      - title: Command Reference
+        url: /misc/player-guide/command-reference
+
+past-worlds:
+  - title: Intro
+    children:
+      - title: Past Worlds
+        url: /misc/past-worlds/past-worlds
+  - title: The Eras
+    children:
+      - title: The First Era (2015)
+        url: /misc/past-worlds/first-era
+      - title: The Second Era (2015-2018)
+        url: /misc/past-worlds/second-era
+      - title: The Third Era (2018-2020)
+        url: /misc/past-worlds/third-era
