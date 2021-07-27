@@ -26,6 +26,8 @@ player-guide:
         url: /misc/player-guide/shops
   - title: Misc
     children:
+      - title: Ice Rails
+        url: /misc/player-guide/ice-rails
       - title: Moderator Resources
         url: /misc/player-guide/moderator-resources
       - title: Other Utilities
