@@ -53,6 +53,8 @@ Once we've planned out the project, we will begin opening up shops to purchase m
 
 We will also be compensating residents who wish to help with construction as well as commissioning builders to decorate the tunnels to give them a less hellish aesthetic.
 
+In order to make sure donations don't get mixed up with other funds, we're tracking the FPWA ledger [in this Google sheet](https://docs.google.com/spreadsheets/d/1VXBJVS6snvFAFco_KanLaeKc4nO5csJKMNC99b30Qx8/edit?usp=sharing).
+
 ---
 
 Your friendly neighborhood transportation overlords,
